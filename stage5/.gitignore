@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp/
+*.bin
+*.csv
+*.txt
+!README.md
